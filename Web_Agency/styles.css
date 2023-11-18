@@ -1,0 +1,31 @@
+body {
+    background-image: url("images/web_agency.gif");
+    background-size: cover;
+   
+}
+
+.text{
+    font-family: 'Orbitron', sans-serif;
+   margin: 5px 5px 5px 5px;
+}
+
+#underline{
+    text-decoration: underline;
+    font-weight: bold;
+    padding:10px 0 30px 0;
+}
+
+.text-head{
+    font-family: ' Cursive', cursive;
+    font-weight: bold;
+    line-height: 7px;
+}
+
+.btn{
+    font-family: 'Cedarville Cursive', cursive;
+    background-color: black;
+    color:aqua;
+    padding: 5px 10px;
+    margin:10px ;
+    border: 1px solid aqua;
+}
